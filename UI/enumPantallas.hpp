@@ -1,0 +1,15 @@
+#ifndef ENUM_PANTALLAS_HPP
+#define ENUM_PANTALLAS_HPP
+
+enum TIPO_PANTALLA {
+    INICIAR_SESION,
+    REGISTRAR,
+
+    LISTA_CURSOS,
+    EDITAR_CURSO,
+    
+    LISTA_USUARIOS,
+    EDITAR_USUARIO    
+};
+
+#endif
