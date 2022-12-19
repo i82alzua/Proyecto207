@@ -1,0 +1,52 @@
+
+#beginning Suite Estudiante 2
+
+#starting test_enroll
+Inscrito correctamente!
+
+#success test_enroll OK
+
+#starting test_unenroll
+Matriculacion anulada!
+
+#success test_unenroll OK
+
+#ending Suite Estudiante
+
+#beginning Suite Coordinador Recursos 1
+
+#starting test_create_resource
+Recurso creado correctamente!
+
+#success test_create_resource OK
+
+#ending Suite Coordinador Recursos
+
+#beginning Suite Coordinador Cursos 1
+
+#starting test_create_course
+Curso creado correctamente!
+
+#success test_create_course OK
+
+#ending Suite Coordinador Cursos
+
+#beginning Suite Administrador 3
+
+#starting test_edit_user
+Usuario modificado!
+Usuario modificado!
+
+#success test_edit_user OK
+
+#starting test_delete_resource
+Recurso eliminado!
+
+#success test_delete_resource OK
+
+#starting test_delete_course
+Curso eliminado!
+
+#success test_delete_course OK
+
+#ending Suite Administrador
